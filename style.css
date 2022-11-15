@@ -52,3 +52,9 @@ li .active{
     background-color: #256D85;
 }
 
+img{
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 300px
+}
