@@ -58,3 +58,8 @@ img{
   margin: auto;
   width: 300px
 }
+iframe{
+  display: flex;
+  margin: auto;
+  width: 1000px;
+}
